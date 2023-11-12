@@ -1,0 +1,17 @@
+/* components/StickyImage.module.css */
+.sticky-image-container {
+    position: relative;
+  }
+  
+  .sticky-image {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+  }
+  
+  .content {
+    padding: 20px;
+    /* Add additional styles as needed for your content */
+  }
+  
